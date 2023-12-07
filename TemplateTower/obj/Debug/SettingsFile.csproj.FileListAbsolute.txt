@@ -1,0 +1,6 @@
+C:\Users\naoki\Desktop\repos2\TutorialTower1\obj\Debug\SettingsFile.csproj.AssemblyReference.cache
+C:\Users\naoki\Desktop\repos2\TutorialTower1\obj\Debug\SettingsFile.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\Tutorial.dll
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\Tutorial.pdb
+C:\Users\naoki\Desktop\repos2\TutorialTower1\obj\Debug\Tutorial.dll
+C:\Users\naoki\Desktop\repos2\TutorialTower1\obj\Debug\Tutorial.pdb
