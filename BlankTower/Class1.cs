@@ -4,45 +4,13 @@ using BTD_Mod_Helper.Extensions;
 using BTD_Mod_Helper.Api.Towers;
 using Il2CppAssets.Scripts.Models.Towers;
 using Il2CppAssets.Scripts.Models.TowerSets;
-using UnityEngine;
-using Il2CppAssets.Scripts.Simulation.Towers;
-using HarmonyLib;
-using Il2CppAssets.Scripts.Unity.UI_New.InGame;
-using Il2CppAssets.Scripts.Simulation.Towers.Weapons;
-using Il2CppAssets.Scripts.Simulation.Towers.Behaviors.Attack;
-using MelonLoader;
-using Il2CppAssets.Scripts.Unity.Bridge;
-using Il2CppAssets.Scripts;
-using BTD_Mod_Helper.Api.Components;
-using Il2CppAssets.Scripts.Utils;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors.Attack;
+
 using Il2CppAssets.Scripts.Unity;
-using Il2CppAssets.Scripts.Models.Towers.Projectiles.Behaviors;
-using Il2CppAssets.Scripts.Models.Towers.Projectiles;
-using Il2CppAssets.Scripts.Models.Effects;
-using Il2CppAssets.Scripts.Simulation.Towers.Projectiles.Behaviors;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors;
+
 using BTD_Mod_Helper.Api.Display;
-using BTD_Mod_Helper.Api;
+
 using Il2CppAssets.Scripts.Unity.Display;
-using Il2CppAssets.Scripts.Models.Towers.Weapons;
-using Il2CppAssets.Scripts.Models.Map;
-using Il2CppSystem.Collections.Generic;
-using Il2CppAssets.Scripts.Simulation.Towers.Behaviors;
-using Il2CppAssets.Scripts.Simulation.Towers.Projectiles;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors.Emissions;
-using Il2CppAssets.Scripts.Simulation.Towers.Behaviors.Attack.Behaviors;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors.Attack.Behaviors;
-using Il2CppAssets.Scripts.Models.GenericBehaviors;
-using Il2CppAssets.Scripts.Models.Towers.Filters;
-using Il2CppAssets.Scripts.Simulation.Towers.Weapons.Behaviors;
-using System.Collections.Generic;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors.Abilities;
-using Il2CppAssets.Scripts.Models.Towers.Behaviors.Abilities.Behaviors;
-using Il2CppAssets.Scripts.Models.Towers.TowerFilters;
-using Il2CppAssets.Scripts.Simulation.Towers.Behaviors.Abilities;
-using BTD_Mod_Helper.Api.Enums;
-using Il2CppAssets.Scripts.Models.Towers.Weapons.Behaviors;
+
 
 
 namespace Template
