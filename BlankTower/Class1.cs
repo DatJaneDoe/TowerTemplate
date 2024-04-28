@@ -60,7 +60,7 @@ namespace Template
                 {
 
               
-
+             
             }
 
                 public override int GetTowerIndex(System.Collections.Generic.List<TowerDetailsModel> towerSet)

@@ -8,3 +8,8 @@ C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\TemplateTower.dll
 C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\TemplateTower.pdb
 C:\Users\naoki\Desktop\repos2\RocketSalvo\obj\Debug\TemplateTower.dll
 C:\Users\naoki\Desktop\repos2\RocketSalvo\obj\Debug\TemplateTower.pdb
+C:\Users\naoki\Desktop\repos2\TowerTemplate-main\BlankTower\obj\Debug\SettingsFile.csproj.AssemblyReference.cache
+C:\Users\naoki\Desktop\repos2\TowerTemplate-main\BlankTower\obj\Debug\SettingsFile.csproj.CoreCompileInputs.cache
+C:\Users\naoki\Desktop\repos2\TowerTemplate-main\BlankTower\obj\Debug\Settings.1B1D788D.Up2Date
+C:\Users\naoki\Desktop\repos2\TowerTemplate-main\BlankTower\obj\Debug\TemplateTower.dll
+C:\Users\naoki\Desktop\repos2\TowerTemplate-main\BlankTower\obj\Debug\TemplateTower.pdb
